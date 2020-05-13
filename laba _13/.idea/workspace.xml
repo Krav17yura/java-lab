@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abea1e8-b175-4ffe-8b4f-ec1943e1696f" name="Default Changelist" comment="" />
+    <list default="true" id="3abea1e8-b175-4ffe-8b4f-ec1943e1696f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba-14/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba-14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba-14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba-14/out/production/Dut project/com/company/Main$MultyThreadSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba-14/out/production/Dut project/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba-14/out/production/Dut project/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba-14/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laba-14/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +22,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XhdE0bE8myoeAyZwkjeFR7iJ2N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../laba_2" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba-14" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -79,10 +92,10 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="413" y="152" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1366.728@0.40.1366.728" timestamp="1581502480504" />
-    <state x="463" y="160" key="FileChooserDialogImpl" timestamp="1589302605005">
+    <state x="463" y="160" key="FileChooserDialogImpl" timestamp="1589387692268">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="463" y="160" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1589302605005" />
+    <state x="463" y="160" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1589387692268" />
     <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1589281717873">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
@@ -99,10 +112,10 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state width="1323" height="196" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1589281717873" />
-    <state x="384" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1589302578902">
+    <state x="384" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1589387681616">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="384" y="229" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1589302578902" />
+    <state x="384" y="229" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1589387681616" />
     <state x="389" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1589280313230">
       <screen x="0" y="40" width="1366" height="728" />
     </state>

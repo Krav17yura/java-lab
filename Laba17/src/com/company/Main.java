@@ -54,5 +54,5 @@ class Philosopher implements Runnable {
         System.out.println(this.philosopherName + " выходит из-за стола");
         approachCount++;
     }
-    
+
 }

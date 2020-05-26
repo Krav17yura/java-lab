@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5102f48a-8e81-4583-99ef-4c6adc8896fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../laba _13/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laba _13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba _13/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dut project/com/company/Main$MultyThreadSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dut project/com/company/Main$MultyThreadSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dut project/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dut project/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,29 +71,29 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="463" y="160" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1589387744568" />
-    <state width="1323" height="193" key="GridCell.Tab.0.bottom" timestamp="1589394283929">
+    <state width="1323" height="193" key="GridCell.Tab.0.bottom" timestamp="1590487351156">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1589394283929" />
-    <state width="1323" height="193" key="GridCell.Tab.0.center" timestamp="1589394283928">
+    <state width="1323" height="193" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1590487351156" />
+    <state width="1323" height="193" key="GridCell.Tab.0.center" timestamp="1590487351156">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1589394283928" />
-    <state width="1323" height="193" key="GridCell.Tab.0.left" timestamp="1589394283928">
+    <state width="1323" height="193" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1590487351156" />
+    <state width="1323" height="193" key="GridCell.Tab.0.left" timestamp="1590487351156">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1589394283928" />
-    <state width="1323" height="193" key="GridCell.Tab.0.right" timestamp="1589394283929">
+    <state width="1323" height="193" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1590487351156" />
+    <state width="1323" height="193" key="GridCell.Tab.0.right" timestamp="1590487351156">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1589394283929" />
-    <state x="379" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1589310637294">
+    <state width="1323" height="193" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1590487351156" />
+    <state x="379" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1589569372813">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="379" y="229" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1589310637294" />
-    <state x="65" y="40" key="new project wizard" timestamp="1589387760900">
+    <state x="379" y="229" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1589569372813" />
+    <state x="65" y="40" key="new project wizard" timestamp="1589569423802">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="65" y="40" key="new project wizard/0.40.1366.728@0.40.1366.728" timestamp="1589387760900" />
+    <state x="65" y="40" key="new project wizard/0.40.1366.728@0.40.1366.728" timestamp="1589569423802" />
   </component>
 </project>
